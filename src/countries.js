@@ -1,8 +1,8 @@
   const countries = [
     { name: 'USA, New York', timezone: 'America/New_York' },
-    { name: 'India, Kolkata', timezone: 'Asia/Kolkata' },
-    { name: 'Pakistan, Islamabad', timezone: 'Asia/Kolkata' },
-    { name: 'Kazakhstan, Astana', timezone: 'Asia/Kolkata' },
+    { name: 'India, Kolkata', timezone: 'Asia/Almaty' },
+    { name: 'Pakistan, Islamabad', timezone: 'Asia/Almaty' },
+    { name: 'Kazakhstan, Astana', timezone: 'Asia/Almaty' },
     { name: 'Japan, Tokyo', timezone: 'Asia/Tokyo' },
     { name: 'South Korea, Seoul', timezone: 'Asia/Tokyo' },
     { name: 'UK, London', timezone: 'Europe/London' },
